@@ -2,6 +2,7 @@
 ![macOS](https://img.shields.io/badge/os-macOS-green.svg?style=flat)
 ![Linux](https://img.shields.io/badge/os-linux-green.svg?style=flat)
 ![Apache 2](https://img.shields.io/badge/license-Apache2-blue.svg?style=flat)
+![Swift](https://img.shields.io/badge/Swift->=4.0-green.svg?style=flat)
 
 This package provides a few help functions attached to the Timer class for timing code blocks (closures).
 Timing of code bocks can be helpful in a couple of ways.  The purposes I had in mind while writing this were:
