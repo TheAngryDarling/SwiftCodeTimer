@@ -4,8 +4,8 @@
 ![Apache 2](https://img.shields.io/badge/license-Apache2-blue.svg?style=flat)
 
 This package provides a few help functions attached to the Timer class for timing code blocks (closures).
-Timing of code bocks can be helpful in a couple of ways.  The purposes I has in mind while writing these were:
-1. Time blocks for output to user to give updates on long and complex tasks.
+Timing of code bocks can be helpful in a couple of ways.  The purposes I had in mind while writing this were:
+1. Time blocks for output to user to give updates on long and complex tasks. (Helpful when debugging slow code)
 2. Time blocks of code that use 3rd party libraries and/or web services to monitor if theres been changes in performance that is causing my applications to slow down.
 
 ## Usage
